@@ -1,12 +1,16 @@
 # Frontend for Dummies
 
-A beginner guide to Frontend Web Development
+A beginner guide to Frontend Web Development. To join the course, simply **fork**
+the repository and follow the guideline within each week course material.
+Supplimetary video discussions are posted periodically and respective links
+will be published here. With each week, one or more task(s) will be given that
+must be completed self-paced and sent to me via **Pull Request**.
 
 ## Author
 
 **Progyan Bhattacharya**
- - Full Stack Developer (Specializing in React/Frontend) <br/>
- - Portfolio: [Progyan's Playground](https://progyan1997.github.io) <br/>
+ - Full Stack Developer (Specializing in React/Frontend)
+ - Portfolio: [Progyan's Playground](https://progyan1997.github.io)
 
 ## Course Objective
 
