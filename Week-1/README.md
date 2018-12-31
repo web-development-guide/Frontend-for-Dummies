@@ -4,6 +4,13 @@
 This is rather simple and more like data gathering. As most of the course
 content is theoritical, hence there is no specific problem set here.
 
+### Video Conference
+
+[video-week-1](https://youtu.be/6NQpHPAmsU0)
+
+_**Note:** The audio is in Bengali, please turn on Closed Caption if you are
+from different language._
+
 ### Task
 - Fork the repository
 - Open [`0-introduction.template.md`](https://github.com/Progyan1997/Frontend-for-Dummies/blob/master/Week-1/0-introduction.template.md) and copy into `yourname.your-username.md`
