@@ -13,11 +13,11 @@ from different language._
 
 ### Task
 - Fork the repository
-- Open [`0-introduction.template.md`](https://github.com/Progyan1997/Frontend-for-Dummies/blob/master/Week-1/0-introduction.template.md) and copy into `yourname.your-username.md`
+- Open [`0-introduction.template.md`](https://github.com/web-development-guide/Frontend-for-Dummies/blob/master/Week-1/0-introduction.template.md) and copy into `yourname.your-username.md`
 - Fill-up the details as mentioned there.
 - Stage and commit the file into your local workspace _(You are advised to
 make changes to any branch other than master)._
-- Create a Pull Request to [Official-Repository](https://github.com/Progyan1997/Frontend-for-Dummies)
+- Create a Pull Request to [Official-Repository](https://github.com/web-development-guide/Frontend-for-Dummies)
 and wait for being accepted.
 - Once accepted, you become part of the course :)
 

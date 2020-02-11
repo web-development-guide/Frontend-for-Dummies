@@ -2,20 +2,22 @@
 
 A beginner guide to Frontend Web Development. To join the course, simply **fork**
 the repository and follow the guideline within each week course material.
-Supplimetary video discussions are posted periodically and respective links
+Complementary video discussions are posted periodically and respective links
 will be published here. With each week, one or more task(s) will be given that
 must be completed self-paced and sent to me via **Pull Request**.
 
 ## Author
 
-**Progyan Bhattacharya**
+#### Progyan Bhattacharya
  - Full Stack Developer (Specializing in React/Frontend)
  - Portfolio: [Progyan's Playground](https://progyan1997.github.io)
+
+_**Note:** If you want to be an instructor, drop an issue and mention [@Progyan1997](https://github.com/Progyan1997)_
 
 ## Course Objective
 
 To create more developers to deliver Production-ready Web application focused
-on Software Deveopment principles including Requirement Analysis, Design and
+on Software Development principles including Requirement Analysis, Design and
 Code Generation, Test and Quality Assurance.
 
 Discussion on General Platform-based Development, Test-driven Development,
@@ -40,7 +42,7 @@ and React Component, Top-down and Bottom-up approach on Behavioural Design etc.
 - HTML First Methodology
 - Block Markups: `article`, `aside`, `main`, `section`, `header` and `footer`
 - Input Types and Validation Techniques
-- The missing informations of `div` and why not to use it
+- The missing information of `div` and why not to use it
 - Inheritance: Class and Id
 
 ### Week 3
@@ -79,7 +81,7 @@ and React Component, Top-down and Bottom-up approach on Behavioural Design etc.
 - Trending frameworks for PWA and Example Applications
 
 _**Note:** Course curriculum and content may subject to change. Please follow
-the latest at [Official-Repository](https://github.com/Progyan1997/Frontend-for-Dummies)._
+the latest at [Official-Repository](https://github.com/web-development-guide/Frontend-for-Dummies)._
 
 ## References
 1. W3 Specification - https://www.w3.org/standards/webdesign/htmlcss
